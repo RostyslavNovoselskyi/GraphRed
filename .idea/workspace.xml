@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a64147a9-852f-4e1d-942c-a31e9f8468ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrafRed.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$ColorDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$MyFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$MyPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$TextFileFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GraphRedactor.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ikERTMuOqAH8muzUNGnaVbaAiN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GraphRed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GraphRed" />
+      <module name="GrafRed" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GraphRed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a64147a9-852f-4e1d-942c-a31e9f8468ce" name="Default Changelist" comment="" />
+      <created>1602443183835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602443183835</updated>
+      <workItem from="1602443185408" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602443321800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602443321800" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602443321799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602443321799" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602443321799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602443321799" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602443321800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602443321800" />
+  </component>
+</project>
