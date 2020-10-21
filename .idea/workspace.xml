@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a64147a9-852f-4e1d-942c-a31e9f8468ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,17 +57,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.GraphRed" />
@@ -84,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602443183835</updated>
       <workItem from="1602443185408" duration="2071000" />
+      <workItem from="1603259602680" duration="671000" />
     </task>
     <servers />
   </component>
@@ -91,21 +80,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602449152385">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1603260297803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602449152385" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602449152385">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603260297803" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1603260297803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602449152385" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602449152385">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603260297803" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1603260297803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602449152385" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602449152385">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603260297803" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1603260297803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602449152385" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603260297803" />
   </component>
 </project>
