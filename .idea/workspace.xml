@@ -5,44 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a64147a9-852f-4e1d-942c-a31e9f8468ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrafRed.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$ColorDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$MyFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$MyPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor$TextFileFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GrafRed/GraphRedactor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GraphRedactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +42,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager">
@@ -113,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602443183835</updated>
-      <workItem from="1602443185408" duration="147000" />
+      <workItem from="1602443185408" duration="2071000" />
     </task>
     <servers />
   </component>
@@ -121,21 +91,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602443321800">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1602449152385">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602443321800" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602443321799">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602449152385" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1602449152385">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602443321799" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602443321799">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602449152385" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1602449152385">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602443321799" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602443321800">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602449152385" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1602449152385">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602443321800" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602449152385" />
   </component>
 </project>
